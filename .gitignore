@@ -6,8 +6,6 @@ yarn.lock
 eslint_log.eslint_log
 .idea
 dist
-lib
-js
 coverage-ts
 *.log
 
